@@ -1,3 +1,4 @@
+#THIS IS BULLSHIT. THERE'S no CODE
 # To-Do-List Using JavaScript
 In this tutorial, a JavaScript beginner can be able to create a beautiful and functional to do list using JavaScript.
 I will talk about the logic behind every line of code, before opening my text editor and start typing the code.
